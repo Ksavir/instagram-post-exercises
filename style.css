@@ -1,0 +1,100 @@
+
+body {
+    background-color: #000;
+}
+
+.post { 
+    background-color: #fff;
+    max-width:45%; 
+    max-height: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.post-title {
+    display: flex;
+}
+
+
+.icon {
+    font-size: 50px;
+    color: blue;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.user {
+    margin: 5px;
+    padding: 0px 0px 0px 0px;
+}
+
+.menu {
+    margin-left: 460px;
+    font-size: 40px;
+    margin-top: 17px;
+}
+
+.menu:hover {
+    color:deeppink;
+}
+
+
+img {
+    width: 100%;
+   
+}
+
+#action {
+    display: flex;
+    font-size: 20px;
+ }
+
+.heart {
+    margin: 10px;
+    margin-left: 15px;
+}
+
+.heart:hover{
+    color: red;
+}
+
+.bubble {
+    margin: 10px;
+    margin-left: 5px;
+}
+
+.bubble:hover {
+    color:darkred;
+}
+
+.send {
+    margin: 10px;
+    margin-left: 5px;
+}
+
+.send:hover {
+    color:greenyellow;
+}
+
+.save {
+   margin: 10px;
+   margin-left: 77%;
+}
+
+.save:hover{
+    color: blue;
+}
+
+#likes{
+    margin: 15px;
+}
+
+#comment {
+    margin: 15px;
+   
+}
+  
+
